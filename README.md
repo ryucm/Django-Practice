@@ -1,2 +1,2 @@
 # Django-Practice
-Django + DRF with Docker
+TDD tes using Django + DRF with Docker
